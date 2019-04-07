@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "name": "johnnykramer-ninja-gatsby",
+  "description": null,
+  "icons": {
+    "60": "/icons-31715797ef2cf8067cbcb36742a339bc/firefox_app_60x60.png",
+    "128": "/icons-31715797ef2cf8067cbcb36742a339bc/firefox_app_128x128.png",
+    "512": "/icons-31715797ef2cf8067cbcb36742a339bc/firefox_app_512x512.png"
+  },
+  "developer": {
+    "name": null,
+    "url": null
+  }
+}
